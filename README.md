@@ -12,13 +12,13 @@ My goal is to help common users to understand the basic of WebRTC, and start usi
   
 
 ![](img/webrtc-easy-power-001.png)
-  
+Pict 1  
 ![](img/webrtc-easy-power-002.png)
-  
+Pict 2  
 ![](img/webrtc-easy-power-003.png)
-  
+Pict 3  
 ![](img/webrtc-easy-power-004.png)
-  
+Pict 4  
 ![](img/webrtc-easy-power-005.png)
   
 ![](img/webrtc-easy-power-006.png)
