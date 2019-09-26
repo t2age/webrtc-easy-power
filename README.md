@@ -69,13 +69,13 @@ Second 8: close connection(s)
   
 You can change the timming if you want.  
   
-**Internet connection** 
+**Internet connection**  
 You DO NOT NEED Internet connection, but, the computer need an IP ADDRESS otherwise the sample will not work properly...  
   
   
-
-
-For RaspberryPI Zero, you need to compile Node-WRTC Module from source. [Instructions here...]()  
+  
+  
+For RaspberryPI Zero, you need to compile Node-WRTC Module from source. [Instructions here...](https://github.com/t2age/webrtc-armv6)  
 My advice is, test on x86 PC or RPI3 before trying on the Zero...  
     
   
