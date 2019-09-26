@@ -10,7 +10,7 @@ The language of the scripts is JavaScript (NodeJS).
 My goal is to help common users to understand the basic of WebRTC, and start using it in, as much as possible, in daily life stuff...  
   
   
-
+First, let's do a little visual guide for the sample...  
 ![](img/webrtc-easy-power-001.png)
 Pict 1  
   
@@ -80,7 +80,6 @@ You can change the timming if you want.
   
 **Internet connection**  
 You DO NOT NEED Internet connection, but, the computer need an IP ADDRESS otherwise the sample will not work properly...  
-  
   
   
   
