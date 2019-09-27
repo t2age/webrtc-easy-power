@@ -14,7 +14,7 @@ First, let's do a little visual guide for the sample...
 ![](img/webrtc-easy-power-001.jpg)  
 Pict 1  
   
-![](img/webrtc-easy-power-002.jpg =800x)  
+![](img/webrtc-easy-power-002.jpg)  
 Pict 2  
   
 ![](img/webrtc-easy-power-003.jpg)  
@@ -35,7 +35,7 @@ Pict 7
 ![](img/webrtc-easy-power-008.jpg)  
 Pict 8  
   
-![](img/webrtc-easy-power-009.jpg)  
+![](img/webrtc-easy-power-009.jpg =800x600)  
 Pict 9  
   
 
