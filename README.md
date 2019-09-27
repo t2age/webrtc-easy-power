@@ -35,7 +35,7 @@ Pict 7
 ![](img/webrtc-easy-power-008.jpg)  
 Pict 8  
   
-![](img/webrtc-easy-power-009.jpg =800x600)  
+![](img/webrtc-easy-power-009.jpg)  
 Pict 9  
   
 
