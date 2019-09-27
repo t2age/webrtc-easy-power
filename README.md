@@ -11,31 +11,31 @@ My goal is to help common users to understand the basic of WebRTC, and start usi
   
   
 First, let's do a little visual guide for the sample...  
-![](img/webrtc-easy-power-001.jpg)
+![](img/webrtc-easy-power-001.jpg)  
 Pict 1  
   
-![](img/webrtc-easy-power-002.jpg)
+![](img/webrtc-easy-power-002.jpg)  
 Pict 2  
   
-![](img/webrtc-easy-power-003.jpg)
+![](img/webrtc-easy-power-003.jpg)  
 Pict 3  
   
-![](img/webrtc-easy-power-004.jpg)
+![](img/webrtc-easy-power-004.jpg)  
 Pict 4  
   
-![](img/webrtc-easy-power-005.jpg)
+![](img/webrtc-easy-power-005.jpg)  
 Pict 5  
   
-![](img/webrtc-easy-power-006.jpg)
+![](img/webrtc-easy-power-006.jpg)  
 Pict 6  
   
-![](img/webrtc-easy-power-007.jpg)
+![](img/webrtc-easy-power-007.jpg)  
 Pict 7  
   
-![](img/webrtc-easy-power-008.jpg)
+![](img/webrtc-easy-power-008.jpg)  
 Pict 8  
   
-![](img/webrtc-easy-power-009.jpg)
+![](img/webrtc-easy-power-009.jpg)  
 Pict 9  
   
 
