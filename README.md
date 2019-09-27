@@ -14,7 +14,7 @@ First, let's do a little visual guide for the sample...
 ![](img/webrtc-easy-power-001.jpg)  
 Pict 1  
   
-![](img/webrtc-easy-power-002.jpg)  
+![](img/webrtc-easy-power-002.jpg =800x)  
 Pict 2  
   
 ![](img/webrtc-easy-power-003.jpg)  
@@ -95,7 +95,7 @@ My advice is, test on x86 PC or RPI3 before trying on the Zero...
 **Here are the 3 small scripts**  
   
 **ws-server-vN.js**  
-```
+```javascript
 const WebSocket = require('ws');
 const WebSocketServer = WebSocket.Server;
 
@@ -165,7 +165,7 @@ console.log();
 ```
   
 **webRTC-simple-A-vN.js**  
-```
+```javascript
 var Peer = require('simple-peer')
 var wrtc = require('wrtc')
 var WebSocket = require('ws')
@@ -241,7 +241,7 @@ peer1.on('close', () => {
 ```
   
 **webRTC-simple-B-vN.js**  
-```
+```javascript
 var Peer = require('simple-peer')
 var wrtc = require('wrtc')
 var WebSocket = require('ws')
