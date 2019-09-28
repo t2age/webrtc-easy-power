@@ -38,6 +38,12 @@ Pict 8
 ![](img/webrtc-easy-power-009.jpg)  
 Pict 9  
   
+![](img/webrtc-easy-power-010.jpg)  
+Pict 10  
+  
+![](img/webrtc-easy-power-011.jpg)  
+Pict 11  
+  
 
 **How to:**  
 0) Install the necessary software:  
