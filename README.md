@@ -94,6 +94,7 @@ You need to edit the scripts, and adjust the IP ADDRESS to reflect the ip addres
 Take a look inside the code (all 3), all of them should point to the IP ADDRESS where the server-scripts is running.  
   
   
+**RaspberryPI Zero ARMv6 CPU**  
 For RaspberryPI Zero, you need to compile Node-WRTC Module from source. [Instructions here...](https://github.com/t2age/webrtc-armv6)  
 My advice is, test on x86 PC or RPI3 before trying on the Zero...  
     
