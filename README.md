@@ -320,3 +320,11 @@ peer2.on('close', () => {
 ```
   
   
+  
+**Another version using a sync folder instead of server-script**  
+There is a variation of the same sample, using a sync folder to exchange the signals, thus, there is no need to run any server-script..  
+![](../webrtc-easy-power-sync/img/webrtc-easy-power-sync-001.jpg)  
+   
+[WebRTC Simple SYNC](https://github.com/t2age/webrtc-easy-power-sync)  
+  
+  
