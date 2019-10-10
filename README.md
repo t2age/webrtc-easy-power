@@ -317,8 +317,11 @@ peer2.on('close', () => {
   console.log('----------'); 
 })
 
-```
+```  
   
+  
+-----  
+-----  
   
   
 **Another version using a sync folder instead of server-script**  
