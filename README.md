@@ -14,37 +14,48 @@ First, let's do a little visual guide for the sample...
 ![](img/webrtc-easy-power-001.jpg)  
 Pict 1  
   
+-----
 ![](img/webrtc-easy-power-002.jpg)  
 Pict 2  
   
+-----
 ![](img/webrtc-easy-power-003.jpg)  
 Pict 3  
   
+-----
 ![](img/webrtc-easy-power-004.jpg)  
 Pict 4  
   
+-----
 ![](img/webrtc-easy-power-005.jpg)  
 Pict 5  
   
+-----
 ![](img/webrtc-easy-power-006.jpg)  
 Pict 6  
   
+-----
 ![](img/webrtc-easy-power-007.jpg)  
 Pict 7  
   
+-----
 ![](img/webrtc-easy-power-008.jpg)  
 Pict 8  
   
+-----
 ![](img/webrtc-easy-power-009.jpg)  
 Pict 9  
   
+-----
 ![](img/webrtc-easy-power-010.jpg)  
 Pict 10  
   
+-----
 ![](img/webrtc-easy-power-011.jpg)  
 Pict 11  
   
-
+-----
+  
 **How to:**  
 0) Install the necessary software:  
 ```
